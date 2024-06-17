@@ -1,0 +1,11 @@
+argparse
+numpy
+pandas
+tensorflow
+keras
+os
+csv
+music21
+collections
+warnings
+random
